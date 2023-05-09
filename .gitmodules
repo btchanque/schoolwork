@@ -1,0 +1,18 @@
+[submodule "IS683Assignments"]
+	path = IS683Assignments
+	url = https://github.com/btchanque/IS683Assignments.git
+[submodule "homework1"]
+	path = homework1
+	url = https://github.com/btchanque/homework1.git
+[submodule "NJIT"]
+	path = NJIT
+	url = https://github.com/btchanque/NJIT.git
+[submodule "FinalExam"]
+	path = FinalExam
+	url = https://github.com/btchanque/FinalExam.git
+[submodule "try_git"]
+	path = try_git
+	url = https://github.com/btchanque/try_git.git
+[submodule "Portfolio"]
+	path = Portfolio
+	url = https://github.com/btchanque/Portfolio
